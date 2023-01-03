@@ -1,0 +1,5 @@
+#!/bin/bash
+user=$(id -un)
+
+# Print the message
+echo "Hello $user"
